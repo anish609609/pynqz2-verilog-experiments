@@ -21,6 +21,9 @@ This repository may contain:
 
 ## Current Experiments
 1.FPGA Clock Divider Demo | 8Hz, 4Hz, 2Hz, 1Hz LED Blinking
+Youtube Demo link: https://youtu.be/9iJLmOGcu3w?si=eMR-Ld4zrQLLXrDq
+2.
+
 
 ## Learning Goals
 Through these experiments, I am exploring:
