@@ -19,9 +19,14 @@ This repository may contain:
 - Clock generation/divider circuits
 
 ## Current Experiments
-1.FPGA Clock Divider Demo | 8Hz, 4Hz, 2Hz, 1Hz LED Blinking
-Youtube Demo link: https://youtu.be/9iJLmOGcu3w?si=eMR-Ld4zrQLLXrDq
-2.
+
+### 1. FPGA Clock Divider Demo | 8Hz, 4Hz, 2Hz, 1Hz LED Blinking
+Implemented a multi-frequency clock divider on the PYNQ-Z2 FPGA using Verilog HDL to generate 8Hz, 4Hz, 2Hz, and 1Hz LED blinking outputs from the onboard clock.  
+Demo Video: https://youtu.be/9iJLmOGcu3w?si=eMR-Ld4zrQLLXrDq
+
+### 2. RGB LED Finite State Machine (FSM)
+Implemented an RGB LED FSM on the PYNQ-Z2 FPGA using Verilog HDL with sequential RGB color transitions and switch-based reset functionality.  
+Demo Video: https://youtu.be/zX5nCW47iZw?si=-GMuycOAhsKgugid
 
 
 ## Learning Goals
