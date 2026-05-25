@@ -4,7 +4,6 @@ This repository contains my FPGA and Verilog HDL experiments developed on the PY
 
 ## Hardware Used
 - PYNQ-Z2 FPGA Board
-- 
 ## Software Used
 - Vivado Design Suite
 
